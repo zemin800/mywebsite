@@ -1,7 +1,7 @@
-name: "Emily C. Zabor"
+name: "Zemin Cai"
 output_dir: "."
 navbar:
-  title: "Emily C. Zabor"
+  title: "Zemin Cai"
   left:
     - text: "Writing"
       href: research.html
